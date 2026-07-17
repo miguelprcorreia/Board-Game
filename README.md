@@ -2,7 +2,7 @@
 
 # 🧩 Board-Game
 
-**Puzzle solver game built in C** — project for *Laboratórios de Informática II* @ University of Minho
+**Board Game with solving capabilities built in C** — project for *Laboratórios de Informática II* @ University of Minho
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Makefile](https://img.shields.io/badge/-Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
